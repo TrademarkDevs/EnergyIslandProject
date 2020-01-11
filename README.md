@@ -3,7 +3,7 @@
 https://TrademarkDevs.github.io/EnergyIslandProject
 
 Versions:
-
-	Beta:
-		- 1.0: Initial build of game made to test links
-		- 1.1: Changed a little to test new link function
+- Beta:
+  - 1.0: Initial build of game made to test links
+  - 1.1: Changed a little to test new link function
+  - 1.2: Changed link function so it is finished and removed debug code
