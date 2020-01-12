@@ -11,3 +11,4 @@ Versions:
   - 2.1: Finished special tile code
   - 2.2: Fixed fullscreen so it only requires one click
   - 2.3: Changed background on menu so it looks a lot nicer
+  - 3.0: Added next turn functionality so that the game can move over years
